@@ -14,13 +14,13 @@
   },
   "users": [
     {
-      "uid": 1,
+      "id": 1,
       "name": "Leanne Graham",
       "username": "Bret",
       "email": "Sincere@april.biz"
     },
     {
-      "uid": 2,
+      "id": 2,
       "name": "Ervin Howell",
       "username": "Samantha",
       "email": "Shanna@melissa.tv"
